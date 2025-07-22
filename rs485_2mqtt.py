@@ -4,7 +4,7 @@ from json import dumps as json_dumps
 from functools import reduce
 from collections import defaultdict
 
-MQTT_USERNAME = root
+MQTT_USERNAME = 이준희
 MQTT_PASSWORD = 01074190727
 
 class Device:
